@@ -12,6 +12,9 @@ Besides the necessary wrangling & consistency checks in Python, I also performed
   * cluster analysis
   * time-series analysis
 
-[Curated results are avaiable in this Tableau dashboard](https://public.tableau.com/views/EarthlyJapan/SeismicDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[Data source](https://www.kaggle.com/usgs/earthquake-database)
+>* External links:
+
+ >*[Tableau dashboard](https://public.tableau.com/views/EarthlyJapan/SeismicDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+ >*[Data source](https://www.kaggle.com/usgs/earthquake-database)
