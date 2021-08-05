@@ -3,7 +3,7 @@
 TLDR - Exploration of global earthquake data. Payoff is a 3D model of the subterrainean seismic shelf beneath Japan.
 
 
-I started this project as a challenge in predicting the 'when' & 'where' mechanics of earthquakes. 
+This project started as a challenge in predicting the 'when' & 'where' mechanics of earthquakes. 
 
 Besides the necessary wrangling & consistency checks in Python, I also performed:
   * data sourcing
