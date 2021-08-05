@@ -11,6 +11,6 @@ Assuming necessary wrangling & consistency checks in Python, I also performed:
   * cluster analysis
   * time-series analysis
 
-Curated results are avaiable in this dashboard [here](https://public.tableau.com/views/EarthlyJapan/SeismicDashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
+[Curated results are avaiable in this dashboard](https://public.tableau.com/views/EarthlyJapan/SeismicDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Data source [here](https://www.kaggle.com/usgs/earthquake-database)
+[Data source](https://www.kaggle.com/usgs/earthquake-database)
