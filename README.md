@@ -16,4 +16,4 @@ Besides the necessary wrangling & consistency checks in Python, I also performed
 External links:
  * [Tableau dashboard](https://public.tableau.com/views/EarthlyJapan/SeismicDashboard?:language=en-US&:display_count=n&:origin=viz_share_link). Note that dashboard only contains steps taken towards final results.
  * [Data source](https://www.kaggle.com/usgs/earthquake-database) - United States Geological Survey
- * [Shapefiles](https://tapiquen-sig.jimdofree.com/english-version/free-downloads/united-states/)
+ * [Shapefiles source](https://tapiquen-sig.jimdofree.com/english-version/free-downloads/united-states/) - Source: Efraín Porto Tapiquén
