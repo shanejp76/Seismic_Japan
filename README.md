@@ -13,8 +13,8 @@ Besides the necessary wrangling & consistency checks in Python, I also performed
   * time-series analysis
 
 
->* External links:
+External links:
 
- >*[Tableau dashboard](https://public.tableau.com/views/EarthlyJapan/SeismicDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+ >* [Tableau dashboard](https://public.tableau.com/views/EarthlyJapan/SeismicDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
- >*[Data source](https://www.kaggle.com/usgs/earthquake-database)
+ >* [Data source](https://www.kaggle.com/usgs/earthquake-database)
